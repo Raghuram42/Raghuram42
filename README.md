@@ -40,7 +40,7 @@
 - 💬 Ask me about anything and everything!
 - 📄  Brainstorm with me over tech, algorithms, career, and music.
 - ⚡  Checkout my [resume](https://drive.google.com/file/d/1CklBrU_grA5DG987A6sQVXiuQsdtaNCK/view?usp=sharing)
-- 💬 Ping Me about #DSA, #Alogorithms, #Coding, #Space, #Naruto, #Flash and anything you like
+- 💬 Ping Me about #DSA, #Algorithms, #Coding, #Space, #Naruto, #Flash and anything you like
 - 📫 How to reach me: message me at [LinkedIn](https://www.linkedin.com/in/raghuramvoruganti/)
 
 ## Coding profiles

@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/raghuram42?label=Follow&style=social)](https://github.com/raghuram42/?tab=follow)
 ---
 
-## Hi there 👋,
+## Hi there 👋👋,
 
 ### I'm Raghuram Voruganti, Working as 👨‍💻 Software Developer Engineer-3 in FactSet. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.
 -------

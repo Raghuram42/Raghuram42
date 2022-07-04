@@ -13,7 +13,7 @@
 ## 🧐 About me
 
 - 🏄‍ I’m Quick learner and expert in handling critical tasks
-- 🔭 I am currently working as SDE-3 in FactSet with 3 years of experience.
+- 🔭 I am currently working as SDE in Microsoft.
 - 🌱 I love to code and love to talk about space science especially Einstein theory of relativity.
 - 🔭 I’m currently learning Java Spring.
 - 👯 I’m looking to collaborate on Competative coding

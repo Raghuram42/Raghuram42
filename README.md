@@ -7,16 +7,13 @@
 
 ## Hi there 👋👋,
 
-### I'm Raghuram Voruganti, Working as 👨‍💻 Software Developer Engineer-3 in FactSet. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.
+### I'm Raghuram Voruganti, Working as 👨‍💻 Software Intern at Voltela. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.
 -------
   
 ## 🧐 About me
 
 - 🏄‍ I’m Quick learner and expert in handling critical tasks
-- 🔭 I am currently working as SDE in Microsoft.
 - 🌱 I love to code and love to talk about space science especially Einstein theory of relativity.
-- 🔭 I’m currently learning Java Spring.
-- 👯 I’m looking to collaborate on Competative coding
 - 😄 And Many More...
 
 

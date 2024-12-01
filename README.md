@@ -7,7 +7,7 @@
 
 ## Hi there 👋👋,
 
-### I'm Raghuram Voruganti, Working as 👨‍💻 Software Intern at Voltela. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.
+### I'm Raghuram Voruganti, Working as 👨‍💻 Software Development Engineer at Amazon. Interested in Problem Solving, Algorithm Design, always keen to learn new things, I enjoy diving into research.
 -------
   
 ## 🧐 About me
